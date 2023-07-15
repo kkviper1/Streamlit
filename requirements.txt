@@ -1,0 +1,9 @@
+# latest versions as of 2023-06-27
+pandas==2.0.2
+streamlit==1.24.0
+tensorflow==2.12.0
+wget==3.2
+ipykernel==6.20.1
+numpy==1.16.4
+pillow
+keras
